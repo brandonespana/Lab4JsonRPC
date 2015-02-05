@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lab4JsonRPC</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="header">Enter two numbers:</string>
+    <string name="argument1">First number</string>
+    <string name="argument2">Second number</string>
+    <string name="operationHeader">Select operation: </string>
+    <string name="multiply">multiply</string>
+    <string name="divide">divide</string>
+    <string name="add">add</string>
+    <string name="subtract">subtract</string>
+    <string name="answerHeader">Result: </string>
+    <string name="answer">Result</string>
+    <string name="callButton">Call Method</string>
+
+</resources>
